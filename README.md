@@ -137,7 +137,7 @@ Underperforming devices where users register but rarely open the app—indicatin
 🔹 This analysis enables data-driven decisions to enhance insurance reach and performance across India.
 
 ----------------
-## ** 🛡️ Insurance Underpenetrated States for Expansion**
+## **🛡️ Insurance Underpenetrated States for Expansion**
 
   This step helps pinpoint states with low insurance market share, revealing opportunities for strategic expansion and outreach. By comparing the share of policies sold by each state against the national total, we can identify underpenetrated markets. 
 
@@ -162,7 +162,7 @@ Underperforming devices where users register but rarely open the app—indicatin
 
 **Identify Underperforming Regions with Growth & Market Share**
 
-![user adoption](https://github.com/user-attachments/assets/98315766-1bfb-47c5-b49e-e96fb005cc6c)
+![image](https://github.com/user-attachments/assets/4c39c910-69d5-4c86-9e45-80995a09ef41)
 
 **🔥 High Adoption (> 3% market share)**
  
