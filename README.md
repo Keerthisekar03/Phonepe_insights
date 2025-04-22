@@ -169,6 +169,7 @@ Underperforming devices where users register but rarely open the app—indicatin
 🔹 Indicates robust brand awareness, market penetration, and possibly high user satisfaction.
  
 🔹 States in this category are likely already well-established markets.
+
  ️
 **⚖️ <ins>Moderate Adoption</ins> (1% – 3% market share)**
  
